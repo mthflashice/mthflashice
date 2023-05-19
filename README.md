@@ -1,16 +1,17 @@
-### Hi there 👋
+### ✨ Hello there✨, I'm Matheus Quirino  👋
 
-<!--
-**mthflashice/mthflashice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About 💎
+Eu sou Web Desenvolvedor, and estou estudando web desenvolvimento  at [Rocketset](https://app.rocketseat.com.br/dashboard)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Curent Stack 💎
+- ⭐️ Main language: `JavaCript`
+- 🎯Backend: `node.js`
+- 🏊🏼 FrontEnd: `Reactjs`, `Html5`,`CSS3`, `JavaCript`
+- 🔩 Tolls: `VsCode`
+- 🌎 Version Code Control: `Git & Github`
+
+#🔗 Contacts💎
+- 📧 matheususlino@kerix.com.br ❄️
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/matheusquirinoleitelino)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mthflashice)
