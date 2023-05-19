@@ -1,7 +1,7 @@
 ### ✨ Hello there✨, I'm Matheus Quirino  👋
 
 ### About 💎
-Eu sou Web Desenvolvedor, and estou estudando web desenvolvimento  at [Rocketset](https://app.rocketseat.com.br/dashboard)
+I'm Web Desenvolvedor, and estou estudando web desenvolvimento  at [Rocketset](https://app.rocketseat.com.br/dashboard)
 
 
 ## Curent Stack 💎
